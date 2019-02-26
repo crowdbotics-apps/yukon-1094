@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT yukon_1094.wsgi:application
